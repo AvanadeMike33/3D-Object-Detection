@@ -1,0 +1,816 @@
+using darknet
+Loaded weights from /workspace/home/tools/objdet_models/darknet/pretrained/complex_yolov4_mse_loss.pth
+
+------------------------------
+processing frame #0
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name: 1 labels: 41
+CAMERA GROUP 1 name: 2 labels: 17
+CAMERA GROUP 2 name: 4 labels: 16
+CAMERA GROUP 3 name: 3 labels: 9
+CAMERA GROUP 4 name: 5 labels: 8
+FRONT CAMERA NAME: 1
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name = 1 labels = 41
+CAMERA GROUP 1 name = 2 labels = 17
+CAMERA GROUP 2 name = 4 labels = 16
+CAMERA GROUP 3 name = 3 labels = 9
+CAMERA GROUP 4 name = 5 labels = 8
+FRONT CAMERA = 1
+CAMERA MEASUREMENTS: 35
+CAMERA MEASUREMENTS: 35
+creating track no. 0
+creating track no. 1
+creating track no. 2
+creating track no. 3
+creating track no. 4
+creating track no. 5
+creating track no. 6
+creating track no. 7
+creating track no. 8
+track 0 score = 0.16666666666666666
+track 1 score = 0.16666666666666666
+track 2 score = 0.16666666666666666
+track 3 score = 0.16666666666666666
+track 4 score = 0.16666666666666666
+track 5 score = 0.16666666666666666
+track 6 score = 0.16666666666666666
+track 7 score = 0.16666666666666666
+track 8 score = 0.16666666666666666
+CAMERA ASSOCIATIONS PASSING GATE: 0
+BEST RAW CAMERA MHD: 102.18216692336391
+CAMERA GATE: 10.596634733096073
+---no more associations---
+deleting track no. 0
+deleting track no. 1
+deleting track no. 2
+deleting track no. 3
+deleting track no. 4
+deleting track no. 5
+deleting track no. 8
+track 6 score = 0.16666666666666666
+track 7 score = 0.16666666666666666
+------------------------------
+processing frame #1
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name: 1 labels: 41
+CAMERA GROUP 1 name: 2 labels: 19
+CAMERA GROUP 2 name: 4 labels: 15
+CAMERA GROUP 3 name: 3 labels: 9
+CAMERA GROUP 4 name: 5 labels: 4
+FRONT CAMERA NAME: 1
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name = 1 labels = 41
+CAMERA GROUP 1 name = 2 labels = 19
+CAMERA GROUP 2 name = 4 labels = 15
+CAMERA GROUP 3 name = 3 labels = 9
+CAMERA GROUP 4 name = 5 labels = 4
+FRONT CAMERA = 1
+CAMERA MEASUREMENTS: 35
+CAMERA MEASUREMENTS: 35
+predict track 6
+predict track 7
+update track 7 with lidar measurement 6
+update track 6 with lidar measurement 8
+creating track no. 9
+creating track no. 10
+creating track no. 11
+creating track no. 12
+creating track no. 13
+creating track no. 14
+creating track no. 15
+track 6 score = 0.3333333333333333
+track 7 score = 0.3333333333333333
+track 9 score = 0.16666666666666666
+track 10 score = 0.16666666666666666
+track 11 score = 0.16666666666666666
+track 12 score = 0.16666666666666666
+track 13 score = 0.16666666666666666
+track 14 score = 0.16666666666666666
+track 15 score = 0.16666666666666666
+CAMERA ASSOCIATIONS PASSING GATE: 0
+BEST RAW CAMERA MHD: 95.07454956879083
+CAMERA GATE: 10.596634733096073
+---no more associations---
+deleting track no. 9
+deleting track no. 10
+deleting track no. 11
+deleting track no. 12
+deleting track no. 13
+deleting track no. 14
+deleting track no. 15
+track 6 score = 0.3333333333333333
+track 7 score = 0.3333333333333333
+------------------------------
+processing frame #2
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name: 1 labels: 40
+CAMERA GROUP 1 name: 2 labels: 16
+CAMERA GROUP 2 name: 4 labels: 18
+CAMERA GROUP 3 name: 3 labels: 10
+CAMERA GROUP 4 name: 5 labels: 3
+FRONT CAMERA NAME: 1
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name = 1 labels = 40
+CAMERA GROUP 1 name = 2 labels = 16
+CAMERA GROUP 2 name = 4 labels = 18
+CAMERA GROUP 3 name = 3 labels = 10
+CAMERA GROUP 4 name = 5 labels = 3
+FRONT CAMERA = 1
+CAMERA MEASUREMENTS: 34
+CAMERA MEASUREMENTS: 34
+predict track 6
+predict track 7
+update track 7 with lidar measurement 6
+---no more associations---
+creating track no. 16
+creating track no. 17
+creating track no. 18
+creating track no. 19
+creating track no. 20
+creating track no. 21
+creating track no. 22
+track 6 score = 0.16666666666666666
+track 7 score = 0.5
+track 16 score = 0.16666666666666666
+track 17 score = 0.16666666666666666
+track 18 score = 0.16666666666666666
+track 19 score = 0.16666666666666666
+track 20 score = 0.16666666666666666
+track 21 score = 0.16666666666666666
+track 22 score = 0.16666666666666666
+CAMERA ASSOCIATIONS PASSING GATE: 0
+BEST RAW CAMERA MHD: 113.73408280393221
+CAMERA GATE: 10.596634733096073
+---no more associations---
+deleting track no. 16
+deleting track no. 17
+deleting track no. 18
+deleting track no. 19
+deleting track no. 20
+deleting track no. 22
+track 6 score = 0.16666666666666666
+track 7 score = 0.5
+track 21 score = 0.16666666666666666
+------------------------------
+processing frame #3
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name: 1 labels: 40
+CAMERA GROUP 1 name: 2 labels: 15
+CAMERA GROUP 2 name: 4 labels: 17
+CAMERA GROUP 3 name: 3 labels: 11
+CAMERA GROUP 4 name: 5 labels: 3
+FRONT CAMERA NAME: 1
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name = 1 labels = 40
+CAMERA GROUP 1 name = 2 labels = 15
+CAMERA GROUP 2 name = 4 labels = 17
+CAMERA GROUP 3 name = 3 labels = 11
+CAMERA GROUP 4 name = 5 labels = 3
+FRONT CAMERA = 1
+CAMERA MEASUREMENTS: 34
+CAMERA MEASUREMENTS: 34
+predict track 6
+predict track 7
+predict track 21
+update track 21 with lidar measurement 6
+---no more associations---
+deleting track no. 6
+creating track no. 23
+creating track no. 24
+creating track no. 25
+creating track no. 26
+creating track no. 27
+creating track no. 28
+track 7 score = 0.33333333333333337
+track 21 score = 0.3333333333333333
+track 23 score = 0.16666666666666666
+track 24 score = 0.16666666666666666
+track 25 score = 0.16666666666666666
+track 26 score = 0.16666666666666666
+track 27 score = 0.16666666666666666
+track 28 score = 0.16666666666666666
+CAMERA ASSOCIATIONS PASSING GATE: 0
+BEST RAW CAMERA MHD: 109.00958634130575
+CAMERA GATE: 10.596634733096073
+---no more associations---
+deleting track no. 23
+deleting track no. 24
+deleting track no. 25
+deleting track no. 26
+deleting track no. 27
+deleting track no. 28
+track 7 score = 0.33333333333333337
+track 21 score = 0.3333333333333333
+------------------------------
+processing frame #4
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name: 1 labels: 41
+CAMERA GROUP 1 name: 2 labels: 13
+CAMERA GROUP 2 name: 4 labels: 20
+CAMERA GROUP 3 name: 3 labels: 12
+CAMERA GROUP 4 name: 5 labels: 2
+FRONT CAMERA NAME: 1
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name = 1 labels = 41
+CAMERA GROUP 1 name = 2 labels = 13
+CAMERA GROUP 2 name = 4 labels = 20
+CAMERA GROUP 3 name = 3 labels = 12
+CAMERA GROUP 4 name = 5 labels = 2
+FRONT CAMERA = 1
+CAMERA MEASUREMENTS: 35
+CAMERA MEASUREMENTS: 35
+predict track 7
+predict track 21
+update track 21 with lidar measurement 3
+---no more associations---
+creating track no. 29
+creating track no. 30
+creating track no. 31
+creating track no. 32
+creating track no. 33
+creating track no. 34
+creating track no. 35
+track 7 score = 0.1666666666666667
+track 21 score = 0.5
+track 29 score = 0.16666666666666666
+track 30 score = 0.16666666666666666
+track 31 score = 0.16666666666666666
+track 32 score = 0.16666666666666666
+track 33 score = 0.16666666666666666
+track 34 score = 0.16666666666666666
+track 35 score = 0.16666666666666666
+CAMERA ASSOCIATIONS PASSING GATE: 0
+BEST RAW CAMERA MHD: 123.01491216738967
+CAMERA GATE: 10.596634733096073
+---no more associations---
+deleting track no. 29
+deleting track no. 30
+deleting track no. 31
+deleting track no. 32
+deleting track no. 33
+track 7 score = 0.1666666666666667
+track 21 score = 0.5
+track 34 score = 0.16666666666666666
+track 35 score = 0.16666666666666666
+------------------------------
+processing frame #5
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name: 1 labels: 40
+CAMERA GROUP 1 name: 2 labels: 13
+CAMERA GROUP 2 name: 4 labels: 18
+CAMERA GROUP 3 name: 3 labels: 13
+CAMERA GROUP 4 name: 5 labels: 5
+FRONT CAMERA NAME: 1
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name = 1 labels = 40
+CAMERA GROUP 1 name = 2 labels = 13
+CAMERA GROUP 2 name = 4 labels = 18
+CAMERA GROUP 3 name = 3 labels = 13
+CAMERA GROUP 4 name = 5 labels = 5
+FRONT CAMERA = 1
+CAMERA MEASUREMENTS: 34
+CAMERA MEASUREMENTS: 34
+predict track 7
+predict track 21
+predict track 34
+predict track 35
+update track 34 with lidar measurement 7
+update track 21 with lidar measurement 6
+update track 35 with lidar measurement 3
+---no more associations---
+creating track no. 36
+creating track no. 37
+creating track no. 38
+creating track no. 39
+creating track no. 40
+track 7 score = 5.551115123125783e-17
+track 21 score = 0.6666666666666666
+track 34 score = 0.3333333333333333
+track 35 score = 0.3333333333333333
+track 36 score = 0.16666666666666666
+track 37 score = 0.16666666666666666
+track 38 score = 0.16666666666666666
+track 39 score = 0.16666666666666666
+track 40 score = 0.16666666666666666
+CAMERA ASSOCIATIONS PASSING GATE: 0
+BEST RAW CAMERA MHD: 117.62862397654891
+CAMERA GATE: 10.596634733096073
+---no more associations---
+deleting track no. 36
+deleting track no. 37
+deleting track no. 38
+deleting track no. 39
+deleting track no. 40
+track 7 score = 5.551115123125783e-17
+track 21 score = 0.6666666666666666
+track 34 score = 0.3333333333333333
+track 35 score = 0.3333333333333333
+------------------------------
+processing frame #6
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name: 1 labels: 38
+CAMERA GROUP 1 name: 2 labels: 12
+CAMERA GROUP 2 name: 4 labels: 17
+CAMERA GROUP 3 name: 3 labels: 13
+CAMERA GROUP 4 name: 5 labels: 5
+FRONT CAMERA NAME: 1
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name = 1 labels = 38
+CAMERA GROUP 1 name = 2 labels = 12
+CAMERA GROUP 2 name = 4 labels = 17
+CAMERA GROUP 3 name = 3 labels = 13
+CAMERA GROUP 4 name = 5 labels = 5
+FRONT CAMERA = 1
+CAMERA MEASUREMENTS: 33
+CAMERA MEASUREMENTS: 33
+predict track 7
+predict track 21
+predict track 34
+predict track 35
+update track 21 with lidar measurement 6
+update track 35 with lidar measurement 3
+update track 34 with lidar measurement 8
+---no more associations---
+deleting track no. 7
+creating track no. 41
+creating track no. 42
+creating track no. 43
+creating track no. 44
+creating track no. 45
+creating track no. 46
+track 21 score = 0.8333333333333333
+track 34 score = 0.5
+track 35 score = 0.5
+track 41 score = 0.16666666666666666
+track 42 score = 0.16666666666666666
+track 43 score = 0.16666666666666666
+track 44 score = 0.16666666666666666
+track 45 score = 0.16666666666666666
+track 46 score = 0.16666666666666666
+CAMERA ASSOCIATIONS PASSING GATE: 0
+BEST RAW CAMERA MHD: 107.24242071274264
+CAMERA GATE: 10.596634733096073
+---no more associations---
+deleting track no. 41
+deleting track no. 42
+deleting track no. 43
+deleting track no. 44
+deleting track no. 45
+track 21 score = 0.8333333333333333
+track 34 score = 0.5
+track 35 score = 0.5
+track 46 score = 0.16666666666666666
+------------------------------
+processing frame #7
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name: 1 labels: 37
+CAMERA GROUP 1 name: 2 labels: 11
+CAMERA GROUP 2 name: 4 labels: 16
+CAMERA GROUP 3 name: 3 labels: 13
+CAMERA GROUP 4 name: 5 labels: 5
+FRONT CAMERA NAME: 1
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name = 1 labels = 37
+CAMERA GROUP 1 name = 2 labels = 11
+CAMERA GROUP 2 name = 4 labels = 16
+CAMERA GROUP 3 name = 3 labels = 13
+CAMERA GROUP 4 name = 5 labels = 5
+FRONT CAMERA = 1
+CAMERA MEASUREMENTS: 32
+CAMERA MEASUREMENTS: 32
+predict track 21
+predict track 34
+predict track 35
+predict track 46
+update track 21 with lidar measurement 6
+update track 35 with lidar measurement 4
+update track 46 with lidar measurement 0
+---no more associations---
+creating track no. 47
+creating track no. 48
+creating track no. 49
+creating track no. 50
+creating track no. 51
+creating track no. 52
+track 21 score = 0.9999999999999999
+track 34 score = 0.33333333333333337
+track 35 score = 0.6666666666666666
+track 46 score = 0.3333333333333333
+track 47 score = 0.16666666666666666
+track 48 score = 0.16666666666666666
+track 49 score = 0.16666666666666666
+track 50 score = 0.16666666666666666
+track 51 score = 0.16666666666666666
+track 52 score = 0.16666666666666666
+CAMERA ASSOCIATIONS PASSING GATE: 0
+BEST RAW CAMERA MHD: 105.93325189691575
+CAMERA GATE: 10.596634733096073
+---no more associations---
+deleting track no. 47
+deleting track no. 48
+deleting track no. 50
+deleting track no. 51
+deleting track no. 52
+track 21 score = 0.9999999999999999
+track 34 score = 0.33333333333333337
+track 35 score = 0.6666666666666666
+track 46 score = 0.16666666666666666
+track 49 score = 0.16666666666666666
+------------------------------
+processing frame #8
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name: 1 labels: 37
+CAMERA GROUP 1 name: 2 labels: 10
+CAMERA GROUP 2 name: 4 labels: 16
+CAMERA GROUP 3 name: 3 labels: 16
+CAMERA GROUP 4 name: 5 labels: 4
+FRONT CAMERA NAME: 1
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name = 1 labels = 37
+CAMERA GROUP 1 name = 2 labels = 10
+CAMERA GROUP 2 name = 4 labels = 16
+CAMERA GROUP 3 name = 3 labels = 16
+CAMERA GROUP 4 name = 5 labels = 4
+FRONT CAMERA = 1
+CAMERA MEASUREMENTS: 32
+CAMERA MEASUREMENTS: 32
+predict track 21
+predict track 34
+predict track 35
+predict track 46
+predict track 49
+update track 49 with lidar measurement 3
+update track 34 with lidar measurement 8
+update track 35 with lidar measurement 7
+---no more associations---
+deleting track no. 46
+creating track no. 53
+creating track no. 54
+creating track no. 55
+creating track no. 56
+creating track no. 57
+creating track no. 58
+track 21 score = 0.8333333333333333
+track 34 score = 0.5
+track 35 score = 0.8333333333333333
+track 49 score = 0.3333333333333333
+track 53 score = 0.16666666666666666
+track 54 score = 0.16666666666666666
+track 55 score = 0.16666666666666666
+track 56 score = 0.16666666666666666
+track 57 score = 0.16666666666666666
+track 58 score = 0.16666666666666666
+CAMERA ASSOCIATIONS PASSING GATE: 0
+BEST RAW CAMERA MHD: 82.74944975480042
+CAMERA GATE: 10.596634733096073
+---no more associations---
+deleting track no. 53
+deleting track no. 54
+deleting track no. 55
+deleting track no. 56
+deleting track no. 57
+deleting track no. 58
+track 21 score = 0.8333333333333333
+track 34 score = 0.5
+track 35 score = 0.8333333333333333
+track 49 score = 0.3333333333333333
+------------------------------
+processing frame #9
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name: 1 labels: 36
+CAMERA GROUP 1 name: 2 labels: 9
+CAMERA GROUP 2 name: 4 labels: 17
+CAMERA GROUP 3 name: 3 labels: 18
+CAMERA GROUP 4 name: 5 labels: 1
+FRONT CAMERA NAME: 1
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name = 1 labels = 36
+CAMERA GROUP 1 name = 2 labels = 9
+CAMERA GROUP 2 name = 4 labels = 17
+CAMERA GROUP 3 name = 3 labels = 18
+CAMERA GROUP 4 name = 5 labels = 1
+FRONT CAMERA = 1
+CAMERA MEASUREMENTS: 31
+CAMERA MEASUREMENTS: 31
+predict track 21
+predict track 34
+predict track 35
+predict track 49
+update track 34 with lidar measurement 6
+update track 21 with lidar measurement 8
+update track 49 with lidar measurement 2
+---no more associations---
+creating track no. 59
+creating track no. 60
+creating track no. 61
+creating track no. 62
+creating track no. 63
+creating track no. 64
+track 21 score = 0.9999999999999999
+track 34 score = 0.6666666666666666
+track 35 score = 0.6666666666666666
+track 49 score = 0.5
+track 59 score = 0.16666666666666666
+track 60 score = 0.16666666666666666
+track 61 score = 0.16666666666666666
+track 62 score = 0.16666666666666666
+track 63 score = 0.16666666666666666
+track 64 score = 0.16666666666666666
+CAMERA ASSOCIATIONS PASSING GATE: 0
+BEST RAW CAMERA MHD: 92.46064246282083
+CAMERA GATE: 10.596634733096073
+---no more associations---
+deleting track no. 59
+deleting track no. 60
+deleting track no. 61
+deleting track no. 62
+deleting track no. 63
+deleting track no. 64
+track 21 score = 0.9999999999999999
+track 34 score = 0.6666666666666666
+track 35 score = 0.6666666666666666
+track 49 score = 0.5
+------------------------------
+processing frame #10
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name: 1 labels: 34
+CAMERA GROUP 1 name: 2 labels: 9
+CAMERA GROUP 2 name: 4 labels: 14
+CAMERA GROUP 3 name: 3 labels: 21
+CAMERA GROUP 4 name: 5 labels: 1
+FRONT CAMERA NAME: 1
+CAMERA LABEL GROUPS: 5
+CAMERA GROUP 0 name = 1 labels = 34
+CAMERA GROUP 1 name = 2 labels = 9
+CAMERA GROUP 2 name = 4 labels = 14
+CAMERA GROUP 3 name = 3 labels = 21
+CAMERA GROUP 4 name = 5 labels = 1
+FRONT CAMERA = 1
+CAMERA MEASUREMENTS: 31
+CAMERA MEASUREMENTS: 31
+predict track 21
+predict track 34
+predict track 35
+predict track 49
+update track 49 with lidar measurement 4
+---no more associations---
+deleting track no. 35
+creating track no. 65
+creating track no. 66
+creating track no. 67
+creating track no. 68
+creating track no. 69
+creating track no. 70
+creating track no. 71
+track 21 score = 0.8333333333333333
+track 34 score = 0.5
+track 49 score = 0.6666666666666666
+track 65 score = 0.16666666666666666
+track 66 score = 0.16666666666666666
+track 67 score = 0.16666666666666666
+track 68 score = 0.16666666666666666
+track 69 score = 0.16666666666666666
+track 70 score = 0.16666666666666666
+track 71 score = 0.16666666666666666
+CAMERA ASSOCIATIONS PASSING GATE: 0
+BEST RAW CAMERA MHD: 98.5695393143771
+CAMERA GATE: 10.596634733096073
+---no more associations---
+deleting track no. 65
+deleting track no. 66
+deleting track no. 67
+deleting track no. 68
+deleting track no. 69
+deleting track no. 70
+track 21 score = 0.8333333333333333
+track 34 score = 0.5
+track 49 score = 0.6666666666666666
+track 71 score = 0.16666666666666666
+reached end of selected frames
